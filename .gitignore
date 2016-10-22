@@ -1,0 +1,7 @@
+bin
+obj
+packages
+*.suo
+*.nupkg
+*.log
+*.user
