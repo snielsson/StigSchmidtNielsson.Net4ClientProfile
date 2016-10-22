@@ -6,12 +6,12 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>https://raw.githubusercontent.com/snielsson/StigSchmidtNielsson.Net4ClientProfile/master/StigSchmidtNielsson.Extensions.IEnumerable/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/snielsson/StigSchmidtNielsson.Net4ClientProfile/master/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/snielsson/StigSchmidtNielsson.Net4ClientProfile/tree/master/StigSchmidtNielsson.Extensions.IEnumerable</projectUrl>
-    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <iconUrl>http://www.gravatar.com/avatar/5f54b776d334bc43e497f50e28e5cd89.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Initial pre-release.</releaseNotes>
+    <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>C# utility extensions ienumerable</tags>
   </metadata>
