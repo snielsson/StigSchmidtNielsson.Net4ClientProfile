@@ -2,7 +2,7 @@
 
 Copyright (c) 2016 Stig Schmidt Nielsson and Nielsson Consulting.
 
-This license covers all code,projects and nuget pacakges in the 
+This license covers all code, projects and nuget packages in the 
 StigSchmidtNielsson.Net4ClientProfile solution.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
