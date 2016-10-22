@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <licenseUrl>https://raw.githubusercontent.com/snielsson/StigSchmidtNielsson.Net4ClientProfile/master/StigSchmidtNielsson.Extensions.IEnumerable.Tests/LICENSE.txt</licenseUrl>
     <projectUrl>https://github.com/snielsson/StigSchmidtNielsson.Net4ClientProfile</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
+    <!--<iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>-->
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>Initial pre-release.</releaseNotes>
